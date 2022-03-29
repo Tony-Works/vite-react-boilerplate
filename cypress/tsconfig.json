@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["ESNext", "dom"],
+    "isolatedModules": false,
+    "types": ["cypress", "@testing-library/cypress"]
+  },
+  "include": ["**/*.ts", ".eslintrc.js"]
+}
